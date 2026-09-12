@@ -1,10 +1,39 @@
-# awesome-counter-terrorism [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
+# Counter-Terrorism Intelligence Research Repository
 
-> A curated list of awesome resources related to counter terrorism
+A structured collection of **open-source intelligence (OSINT) resources, datasets, research organizations, analytical projects, and academic literature** relevant to counter-terrorism and terrorism studies.
 
-![](./images/logo.png)
+This repository is designed as a reference for **cybersecurity professionals, intelligence analysts, researchers, students, investigators, and policymakers** working in areas related to terrorism, violent extremism, radicalization, threat assessment, and counter-terrorism.
 
-Counter-terrorism is the field concerned with the management and strategies aimed to combat terrorism. This happens through intensive research, information gathering, and multi-agency efforts.
+## Repository Scope
+
+### Intelligence & OSINT Resources
+
+Publicly available sources useful for monitoring, researching, and analyzing terrorism and violent-extremism trends.
+
+### Datasets & Databases
+
+Open datasets containing information on terrorist incidents, organizations, perpetrators, locations, methodologies, and historical trends.
+
+### Research Organizations
+
+Think tanks, academic institutions, international organizations, and specialized research centers focused on terrorism and counter-terrorism.
+
+### Research & Analytical Projects
+
+Projects and technical resources supporting the study, visualization, classification, and analysis of terrorism-related information.
+
+### Academic Literature
+
+Selected research papers, journals, reports, and publications covering terrorism, radicalization, extremism, insurgency, threat assessment, and counter-terrorism.
+
+## Intended Use
+
+This repository is intended for **educational, academic, cybersecurity, intelligence-analysis, and research purposes**. The resources are focused on publicly available information and are provided to facilitate responsible research and understanding of terrorism and violent extremism.
+
+## Disclaimer
+
+The inclusion of a resource does not constitute endorsement of its views, methodology, organization, or content. Users are responsible for evaluating sources critically and complying with applicable laws, regulations, and ethical standards when conducting research or OSINT investigations.
+
 
 ## Contents
 
